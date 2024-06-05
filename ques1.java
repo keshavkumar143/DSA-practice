@@ -1,3 +1,4 @@
+///Do array has Duplicates 
 import java.util.HashSet;
 import java.util.Scanner;
 
