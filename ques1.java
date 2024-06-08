@@ -1,4 +1,5 @@
 ///Do array has Duplicates 
+//LEETCODE LINK --> https://leetcode.com/problems/contains-duplicate/
 import java.util.HashSet;
 import java.util.Scanner;
 
