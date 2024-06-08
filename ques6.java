@@ -1,5 +1,6 @@
 // Definition for a binary tree node.
 //BALANCED BINARY TREE 
+// LEETCODE LINK --> https://leetcode.com/problems/balanced-binary-tree/
 class TreeNode {
     int val;
     TreeNode left;
@@ -45,7 +46,6 @@ class Solution {
 
 public class ques6 {
     public static void main(String[] args) {
-        // Create a test case for the binary tree
         TreeNode root = new TreeNode(1);
         root.left = new TreeNode(2);
         root.right = new TreeNode(3);
