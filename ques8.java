@@ -1,6 +1,5 @@
-
 //MAXIMUM DEAPTH OF BINARY TREE 
-//LEETCODE LINK --> https://leetcode.com/problems/maximum-depth-of-binary-tree/
+//LEETCODE LINK --> https://leetcode.com/problems/maximum-depth-of-binary-tree
 
 class TreeNode {
     int val;
