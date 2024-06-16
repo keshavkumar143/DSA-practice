@@ -1,4 +1,3 @@
-// Definition for a binary tree node.
 //BALANCED BINARY TREE 
 // LEETCODE LINK --> https://leetcode.com/problems/balanced-binary-tree/
 class TreeNode {
