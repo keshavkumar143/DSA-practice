@@ -1,13 +1,31 @@
-Overview Of Questions 
+## Questions
 
-QUESTIONS -> 
-ques1.java -> Do array has Duplicates 
-ques2.java -> check weather Strings are anagram or not
-ques3.java -> Two Sum Problem
-ques4.java -> Minimum Stack Problem
-ques5.java -> Product Of Array Except Self
-ques6.java -> Balanced Binary Tree
-ques7.java -> Same Tree
-ques8.java -> Maximum Deapth Of Binary Tree
-ques9.java -> Invert Tree
-ques10.java -> Buy and Sell Crypto
+- **ques1.java**
+  - Check if an array has duplicates.
+
+- **ques2.java**
+  - Check whether two strings are anagrams of each other.
+
+- **ques3.java**
+  - Solve the Two Sum problem.
+
+- **ques4.java**
+  - Implement a stack that supports push, pop, top, and retrieving the minimum element in constant time.
+
+- **ques5.java**
+  - Compute the product of an array except for the current element.
+
+- **ques6.java**
+  - Check if a binary tree is balanced.
+
+- **ques7.java**
+  - Determine if two binary trees are identical.
+
+- **ques8.java**
+  - Find the maximum depth of a binary tree.
+
+- **ques9.java**
+  - Invert a binary tree.
+
+- **ques10.java**
+  - Solve the Buy and Sell Crypto problem.
