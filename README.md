@@ -32,3 +32,7 @@
  
 - **ques11.java**
   - Valid Parentheses
+ 
+- **ques12.java**
+  - Number of One Bits
+
