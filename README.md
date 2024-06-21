@@ -36,3 +36,6 @@
 - **ques12.java**
   - Number of One Bits
 
+- **ques13.java**
+  - Reverse Bits
+
