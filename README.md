@@ -39,3 +39,6 @@
 - **ques13.java**
   - Reverse Bits
 
+- **ques14.java**
+  - Odd and even positioned linked list nodes
+
