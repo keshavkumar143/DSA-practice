@@ -46,7 +46,12 @@
   - Generate Parentheses
 
  - **ques19.java**
-   - Generate Possible ways to reach the end point of a matrix 
+   - Generate Possible ways to reach the end point of a matrix
+
+   - **ques20.java**
+   - Tower of Hanoi
+  
+   
  
   
 
