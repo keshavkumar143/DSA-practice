@@ -41,6 +41,9 @@
 
 - **ques14.java**
   - Odd and even positioned linked list nodes
+
+- **ques17.java**
+  - Reverse the String using recursion
  
 - **ques18.java**
   - Generate Parentheses
