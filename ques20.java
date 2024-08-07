@@ -1,6 +1,6 @@
 import java.util.*; 
 //Tower of Hanoi
-//Time complexcity: O(2n-1) || O(2n)
+//Time complexcity: O(2^n-1) || O(2^n)
 public class ques20 {
     public static void towerOfHanoi(int n, String source, String helper, String Destination){
 
