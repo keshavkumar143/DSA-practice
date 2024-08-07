@@ -64,7 +64,10 @@
    - is the array sorted in increasing oder (Strictly) using recursion
 
 - **ques22.java**
-   - Move all x at the end of the string using recusrion 
+   - Move all x at the end of the string using recusrion
+
+ - **ques23.java**
+   - Remove duplicates from a string using recursion
   
   
    
