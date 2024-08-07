@@ -68,6 +68,9 @@
 
  - **ques23.java**
    - Remove duplicates from a string using recursion
+
+ - **ques24.java**
+   - Subsequence of a String using recursion
   
   
    
