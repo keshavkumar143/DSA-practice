@@ -42,6 +42,9 @@
 - **ques14.java**
   - Odd and even positioned linked list nodes
 
+- **ques15.java**
+  - Deleting the particular value from the linkedlist 
+ 
 - **ques16.java**
   - First and last occurance of a particular element in a String using Recursion
 
