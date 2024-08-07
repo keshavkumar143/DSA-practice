@@ -42,6 +42,9 @@
 - **ques14.java**
   - Odd and even positioned linked list nodes
 
+- **ques16.java**
+  - First and last occurance of a particular element in a String using Recursion
+
 - **ques17.java**
   - Reverse the String using recursion
  
