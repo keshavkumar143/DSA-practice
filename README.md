@@ -62,6 +62,10 @@
 
  - **ques21.java**
    - is the array sorted in increasing oder (Strictly) using recursion
+
+- **ques22.java**
+   - Move all x at the end of the string using recusrion 
+  
   
    
  
