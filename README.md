@@ -59,6 +59,9 @@
 
 - **ques20.java**
    - Tower of Hanoi
+
+ - **ques21.java**
+   - is the array sorted in increasing oder (Strictly) using recursion
   
    
  
