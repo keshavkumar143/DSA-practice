@@ -73,7 +73,7 @@
    - Subsequence of a String using recursion
 
 - **ques25.java**
-   - Preoder traversal of a binary tree
+   - Preorder / Inorder / Postorder traversal of a binary tree
   
   
    
