@@ -71,6 +71,9 @@
 
  - **ques24.java**
    - Subsequence of a String using recursion
+
+- **ques25.java**
+   - Preoder traversal of a binary tree
   
   
    
