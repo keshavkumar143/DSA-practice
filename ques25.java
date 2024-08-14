@@ -1,6 +1,9 @@
 import java.util.*;
-//Pre order Traversal oa a tree
-//Leetcode Link --> https://leetcode.com/problems/binary-tree-preorder-traversal/description/
+//Preorder , inorder , postorder Traversal of a tree
+
+//Preoder Leetcode Link --> https://leetcode.com/problems/binary-tree-preorder-traversal/
+//Inorder Leetcode Link --> https://leetcode.com/problems/binary-tree-inorder-traversal/
+//Post Order Leetcode Link --> https://leetcode.com/problems/binary-tree-postorder-traversal/
 
 class Node {
     int data; 
@@ -34,15 +37,38 @@ class BinaryTree {
 
 public class ques25 {
     
-    public static void preoder(Node root){
+    public static void preorder(Node root){
 
         if(root == null){
             return; 
         }
         System.out.print(root.data + " ");
 
-        preoder(root.left);
-        preoder(root.right); 
+        preorder(root.left);
+        preorder(root.right); 
+
+    }
+
+
+    public static void inorder(Node root){
+        if(root == null){
+            return; 
+        }
+
+        inorder(root.left);
+        System.out.print(root.data + " ");
+        inorder(root.right);
+
+    }
+
+    public static void postorder(Node root){
+        if(root == null){
+            return; 
+        }
+
+        postorder(root.left);
+        postorder(root.right);
+        System.out.print(root.data + " ");
 
     }
 
@@ -52,8 +78,8 @@ public class ques25 {
         BinaryTree tree = new BinaryTree();
         Node root = tree.buildTree(nodes);
 
-        // System.out.println(root.data);
-
-        preoder(root);
+        // preorder(root); //1,2,4,5,3,6
+        // inorder(root); //4,2,5,1,3,6
+        // postorder(root); //4,5,2,6,3,1
     }
 }
