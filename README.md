@@ -74,6 +74,9 @@
 
 - **ques25.java**
    - Preorder / Inorder / Postorder traversal of a binary tree
+ 
+- **ques26.java**
+   - Check if Two Chessboard Squares Have the Same Color
   
   
    
