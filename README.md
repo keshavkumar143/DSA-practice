@@ -77,6 +77,9 @@
  
 - **ques26.java**
    - Check if Two Chessboard Squares Have the Same Color
+ 
+- **ques27.java**
+   - Prefix sum problem
   
   
    
