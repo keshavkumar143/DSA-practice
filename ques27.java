@@ -1,3 +1,5 @@
+//Prefix sum Problem
+
 import java.util.*;
 
 public class ques27 {
